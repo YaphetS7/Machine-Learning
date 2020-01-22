@@ -1,0 +1,2 @@
+# All parts of neural network are custom: Backpropogation, linear layers, activation functions and etc.
+Notebook contains implementation of backpropogation algorithm on custom neural network using numpy.
